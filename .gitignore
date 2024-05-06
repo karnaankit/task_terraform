@@ -1,0 +1,3 @@
+/.terraform/
+localstate.tfstate
+localstate.tfstate.backup
